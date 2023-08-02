@@ -1,2 +1,2 @@
 # practicum-project
-This repository is for showing the Integrated Project (investigate user behavior for the company's app)
+This repository is for showing the investigation user behavior for the company's app
